@@ -22,8 +22,9 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@luknasc/ui-components": "^0.0.2",
-    "@stencil/core": "^2.0.1"
+    "@luknasc/ui-components": "^0.0.3",
+    "@stencil/core": "^2.0.1",
+    "stencil-react": "^0.0.1-8"
   },
   "repository": {
     "type": "git",
